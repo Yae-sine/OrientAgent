@@ -46,7 +46,7 @@
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](docs/architecture.jpeg)
+![Architecture Diagram](architecture.jpeg)
 ---
 
 ## 🤖 AI Agents
