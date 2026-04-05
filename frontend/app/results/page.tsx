@@ -174,8 +174,7 @@ function ResultsDashboard({ result }: { result: SessionResult }) {
 
   const handleSelectFiliere = async (filiereId: string) => {
     setSelectedFiliere(filiereId);
-    // Redirect to interview page
-    window.location.href = `/interview?session_id=${result.session_id}&filiere_id=${filiereId}`;
+    // Interview feature has been removed
   };
 
   return (

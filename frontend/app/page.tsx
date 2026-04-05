@@ -36,7 +36,7 @@ export default function Home() {
           </div>
 
           {/* Features */}
-          <div className="grid md:grid-cols-4 gap-6 mt-12">
+          <div className="grid md:grid-cols-3 gap-8 mt-16">
             <FeatureCard
               icon="📊"
               title="Analyse de profil"
