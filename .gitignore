@@ -1,3 +1,14 @@
-.venv
-__pycache__
+CLAUDE.md
+.claude
 .env
+node_modules
+venv
+__pycache__
+.next
+.pytest_cache
+AGENTS.md
+.agents
+.codex
+data
+chroma_db
+TODO.md
