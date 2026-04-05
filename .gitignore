@@ -10,5 +10,7 @@ AGENTS.md
 .agents
 .codex
 data
-chroma_db
+rag/chroma_db/
 TODO.md
+*.tex
+*.bin
