@@ -25,7 +25,6 @@
 
 **OrientAgent** is a cutting-edge AI-powered orientation system designed to help Moroccan lycée students (baccalauréat holders) discover and navigate towards the most suitable post-secondary education paths. By leveraging multi-agent orchestration, RAG (Retrieval-Augmented Generation), and advanced LLM capabilities, OrientAgent provides data-driven guidance personalized to each student's academic profile, interests, and career aspirations.
 
-**Built for:** ENSET Hackathon 2026  
 **Target Users:** Moroccan students, educators, and education counselors  
 **Coverage:** 40+ verified Moroccan filières (educational programs)
 
@@ -38,7 +37,6 @@
 | 📊 **Profile Analysis** | Intelligent scoring across multiple academic domains with customizable weighting algorithms |
 | 🔍 **RAG-Powered Search** | Semantic similarity search over 40+ verified Moroccan filières with ChromaDB |
 | 🎯 **Smart Recommendations** | Generates top 3 personalized filière recommendations with explicit action plans |
-| 💬 **Interview Simulation** | Practice admission interviews with AI-generated domain-specific questions |
 | 📄 **PDF Reports** | Download comprehensive, personalized orientation guidance documents |
 | ⚡ **Real-Time Updates** | Server-Sent Events (SSE) streaming for live progress tracking |
 | 🌐 **Bilingual Support** | French interface with extensible internationalization |
@@ -73,11 +71,6 @@
 - **Input:** Retrieved filières + student profile
 - **Output:** Top 3 recommendations with detailed justifications + action plans
 - **Intelligence:** Custom scoring algorithm balancing compatibility, accessibility, and career outcomes
-
-### 4️⃣ **Coach Entretien** (Interview Coach Agent) *(Extensible)*
-- **Role:** Simulates admission interviews
-- **Input:** Selected filière + student profile
-- **Output:** AI-generated interview questions, answer evaluation, improvement suggestions
 
 ---
 
